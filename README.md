@@ -2,7 +2,7 @@
 
 ## Progress Tracker
 
-|Serial Number|Module Name|Progress|
+|Module Number|Module Name|Progress|
 |:---:|:---:|---|
 |1|Support Channel|![](https://geps.dev/progress/100)|
 |2|Doubt Session|![](https://geps.dev/progress/50)|
